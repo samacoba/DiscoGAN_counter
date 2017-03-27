@@ -1,6 +1,6 @@
 # DiscoGAN counter
 お米などいろいろカウントします
-<img src="https://raw.githubusercontent.com/samacoba/DiscoGAN_counter/master/sample.png">
+<img src="/master/sample.PNG">
 
 Qiita解説：http://qiita.com/samacoba/items/f04ed6a3a170fd97cef5
 
